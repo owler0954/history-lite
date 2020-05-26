@@ -1,0 +1,7 @@
+{
+  "name": "HistoryPluginLite",
+  "author": "Pointifix",
+  "main": "history.HistoryPlugin",
+  "description": "Adds a history command to display a some build/break history,can be used in console",
+  "version": 2.0"alpha"
+}
